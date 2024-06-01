@@ -1,5 +1,6 @@
 # Django_blog
 
+This blog is based on the [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Getting Started
 
