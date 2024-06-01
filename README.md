@@ -12,7 +12,7 @@ git clone https://github.com/BioDani/Django_blog.git
 cd Django_blog
 ```
 
-### 2. Environment Variables
+### 2. Virtual environment
 
 Create a environment
 
