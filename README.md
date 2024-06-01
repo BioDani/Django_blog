@@ -18,7 +18,7 @@ cd Django_blog
 Create a environment
 
 ```bash
-python3 -m venv .venv --promt myvenv
+python3 -m venv .venv --prompt myvenv
 ```
 
 Activate the environment
